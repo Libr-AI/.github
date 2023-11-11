@@ -1,3 +1,3 @@
 ## LibrAI
 
-Founded by researchers from MBZUAI in April 2023 in Abu Dhabi, LibrAI specializes in offering multi-dimensional AI risk management solutions, empowering businesses to develop safe and trustworthy AI-driven applications. 
+LibrAI uses artificial intelligence (AI) for AI governance, providing enterprise users with multidimensional, automated, and integrated AI safety services. Compared to current risk control solutions that heavily rely on human intervention, LibrAI proposed AI risk control solution can achieve 100 times the efficiency at 1/10th of the cost, ensuring a smooth implementation of AI.
